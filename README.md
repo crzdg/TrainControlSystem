@@ -3,9 +3,9 @@
 This repository does hold the code base for the project "Hochgeschwindgkeitschienenfahrzeug" created during the PREN modul at the University of Applied Science Lucerne (HSLU) in the year 2018/2019.
 The interdisciplinary project consisted of students of the field of electrical engineers, machine engineers and computer scientists. During one year the goal was to plan and build a model-scaled train which had to drive through a railsystem while executing tasks.
 A number recognition task was central to the project and main challenge for the computer scientists. This repository holds the used code base for the Team 9. The module for the real-time number recognition is considered to be the main contribution.
-This module is also publically available as a seperate repository (https://github.com/FabianGroeger96/cnn-number-detection).
+The detection module is also publically available as a separate repository (https://github.com/FabianGroeger96/cnn-number-detection).
 
-**NOTE: The code in this repository is not meant for easy reusability as it need a specifically designed train. The repository is meant to be an indication for similar projects. It is also used as personal portfolio.**
+**NOTE: The code in this repository is not meant for easy reusability as it needs a specifically designed train. The repository is meant to be an indication for similar projects. It is also used as personal portfolio.**
 
 
 
@@ -81,6 +81,6 @@ The number detection was isolated and made available in a separate repository.
 
 ## Disclaimer
 
-The repository is not refactored or intended to work out of the box. As stated the usage of the code does require a specific setup to work fully.
-It is only published as a reference point for similar projects.
+The repository is not refactored or intended to work out of the box. As stated the usage of the code does require a specific setup to work.
+It is published as a reference point for similar projects. If you have questions please open an issue in this project. Questions about the number detection should be posted in the specific repository.
 
