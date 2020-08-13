@@ -32,6 +32,8 @@ The task and most important rules are provided in the list below.
 
 ![Signals](images/signals_scheme.png)
 
+![Signals recorded](images/exp_info_three.jpg)
+
 ## Train Design
 
 ![Train Pren Team 9](images/train_cropped.JPG)
