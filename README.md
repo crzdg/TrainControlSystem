@@ -30,9 +30,15 @@ The task and most important rules are provided in the list below.
 
 ![Track](images/track.png)
 
+**Track layout**
+
 ![Signals](images/signals_scheme.png)
 
+**Scheme of signals**
+
 ![Signals recorded](images/exp_info_three.jpg)
+
+**Image of signals from train camera**
 
 ## Train Design
 
