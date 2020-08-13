@@ -28,17 +28,18 @@ The task and most important rules are provided in the list below.
 - The end of a round is signalized with a specific round signal.
 - The train needs to pass the clearance gauge (Lichtraumprofil) without touching it.
 
+
+### Track layout
+
 ![Track](images/track.png)
 
-**Track layout**
+### Scheme of signals
 
 ![Signals](images/signals_scheme.png)
 
-**Scheme of signals**
+### Image of signals from train
 
 ![Signals recorded](images/exp_info_three.jpg)
-
-**Image of signals from train camera**
 
 ## Train Design
 
