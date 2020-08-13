@@ -1,0 +1,8 @@
+.idea/*
+/venc
+/.vscode
+/.vs
+*.h5
+*.pyc
+
+
